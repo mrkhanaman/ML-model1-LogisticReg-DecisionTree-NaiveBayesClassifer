@@ -66,5 +66,6 @@ The project reinforces theoretical knowledge and hones practical skills for solv
 ---
 
 > **Note:** Feel free to explore the repository to access the code, models, and evaluation results.
->         > Dataset: Social_Network_Ads.csv
+>
+> Dataset: Social_Network_Ads.csv
 
